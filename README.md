@@ -27,4 +27,6 @@ Pickaboo.com is a leading e-commerce platform offering a wide range of products 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/contactmithuroy/Test-Cases-of-pickaboo.com-Full-Final.git
+   
+## Test Scenarios
 ![image](https://github.com/user-attachments/assets/e26f8002-2d3e-45b1-9c97-fee870015f38)
