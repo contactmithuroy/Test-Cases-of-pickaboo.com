@@ -30,3 +30,7 @@ Pickaboo.com is a leading e-commerce platform offering a wide range of products 
    
 ## Test Scenarios
 ![image](https://github.com/user-attachments/assets/e26f8002-2d3e-45b1-9c97-fee870015f38)
+
+## Test Case Bug Report
+![image](https://github.com/user-attachments/assets/5cf39828-7aac-4305-8d2e-6b28b0791a12)
+
